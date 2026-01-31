@@ -1,1 +1,1 @@
-# Food_Delivery_Data
+AI Food Delivery Data Analysis & Insights – This project analyzes orders, users, and restaurant data to reveal revenue trends, top cuisines, high-value restaurants, and Gold member behavior using Python and Pandas. Insights help optimize food delivery operations and strategy.# Food_Delivery_Data
